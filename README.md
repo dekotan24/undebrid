@@ -19,9 +19,9 @@
 - **Delete Confirmation** — Safety dialogs before deleting magnets or removing links
 - **Dark Mode UI** — Navy + blue accent theme with smooth animations
 
-## Screenshots
+## Screenshot
 
-<!-- Add screenshots here -->
+![Undebrid Dashboard](docs/undebrid.png)
 
 ## Quick Start
 

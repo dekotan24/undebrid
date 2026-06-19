@@ -21,7 +21,7 @@
 
 ## スクリーンショット
 
-<!-- ここにスクリーンショットを追加 -->
+![Undebrid Dashboard](docs/undebrid.png)
 
 ## クイックスタート
 
